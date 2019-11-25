@@ -1,2 +1,2 @@
-# alog
+# algo
 algorithm for java
